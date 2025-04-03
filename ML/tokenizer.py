@@ -2,7 +2,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 # Ensure necessary NLTK resources are downloaded
-nltk.download('punkt')
+# nltk.download('punkt_tab')
 
 # Sample text
 text = "Machine learning is amazing!"
